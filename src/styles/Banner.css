@@ -1,0 +1,164 @@
+.prof{
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 18px;
+    border: #f0f0f0;
+    width: 90px;
+    background-color: rgb(245, 5, 69);
+    color: white;
+
+}
+.sncont{
+    background-color:#f0f0f0;
+    padding-top: 40px;
+    width: 1500px;
+    margin-top: -27px;
+}
+.find{
+    font-size: 80px;
+}
+.that{
+    font-size: 80px;
+    padding-left: 70px;
+    margin-top: -85PX;
+}
+
+.your{
+    font-size: 80px;
+    padding-left: 70px;
+    margin-top: -85PX;
+}
+.browse{
+    color: grey;
+    padding-left: 70px;
+    margin-top: -50px;
+}
+
+.bring{
+    color: grey;
+    display: flex;
+    margin-top: -10px;
+
+
+    padding-left: 70px;
+
+
+}
+.man{
+    display: flex;
+    margin-left: 824px;
+    margin-top: -520px;
+    height: 550px;
+    width: 400px;
+    
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 70px;
+}
+.inter{
+    margin-left: 80px;
+}
+.quality{
+    margin-top: -110px;
+    margin-left: 290px;
+
+}
+.national{
+    font-size: 40px;
+    margin-top: 50px;
+}
+.bb{
+    color: grey;
+    margin-top: -20px;
+}
+.two{
+    font-size: 40px;
+    margin-top: -60px;
+}
+.high{
+    color: grey;
+    margin-top: -15px;
+
+}
+.three{
+    font-size: 40px;
+    margin-top: 50px;
+
+}
+.happy{
+    color: grey;
+    margin-top: -22px;
+
+}
+.bbb{
+    margin-left: 530px;
+    margin-top: -140px;
+}
+.brand{
+    margin-top: -24px;
+    height: 100px;
+}
+
+.mans{
+    margin-left: 50px;
+}
+.heading{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: -60px;
+    margin-left: 550px;
+}
+
+
+
+
+
+
+
+
+
+/* Container for the text box */
+.text-box-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  /* Styling the text input */
+  .text-input {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .box {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    height: 150px;
+    width: 100%;
+    max-width: 300px;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  

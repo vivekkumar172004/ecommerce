@@ -1,0 +1,138 @@
+export const data3 = [
+    {
+      mainheading: "Home > Shop > Men > T-Shirts",
+      image1: "/images/formal.png.jpeg",
+      image2: "/images/formal.png.jpeg",
+      image3: "/images/formal.png.jpeg",
+      image4: "/images/formal.png.jpeg",
+      heading1: "Formals",
+      image5: "/images/startscomponent.png.jpeg",
+      price1: "$160 ",
+      price2: "-40%",
+      para1:
+        "The Graphic t-shirt Which is perfect for any Ocassion.Crafted from soft and brealhable fabric,it offers Superior comfort and style,",
+      heading2: "Select Colors",
+      image6: "/images/color2.png",
+      button1: "Small",
+      button2: "Medium",
+      button3: "Large",
+      button4: "X-Large",
+      button5: "Add to Cart",
+      para2: "Product Details",
+      para3:
+        "Sleek and timeless.Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric, offers Superior and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Titanium glasses with an innovative bridge. A frame to suit every face, Morgan is a classic'panto' shape.Named after James Morgan, the engineer who built the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin Brâncuşis Bird in Space.",
+      para4:
+        " Sleek and timeless.Titanium glasses with an innovative bridge. A frame suit every faceSleek and timeless.Titanium glasses with an innovative bridge. A frame suit every face, Morgan is a classic'panto' shape. Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Named after James Morgan, the engineer who built  the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin  Brâncuşis Bird in Space.",
+      para5: "• 99.7% pure titanium front",
+      para6: "• More than 4hv on the Vickers hardness test.",
+      para7: " • lon plated to over 0.3u ",
+      para8: "  • Weighs under 5.0g ",
+      para9: "• Adjustable titanium nose pads for a comfortable fit",
+      para10: "  •UV protection",
+      heading3: "YOU MIGHT ALSO LIKE",
+   },
+  ];
+  
+export const data4 = [
+    {
+      mainheading: "Home > Shop > Men > T-Shirts",
+      image1: "/images/casual.png.jpeg",
+      image2: "/images/casual.png.jpeg",
+      image3: "/images/casual.png.jpeg",
+      image4: "/images/casual.png.jpeg",
+      heading1: "Casuals",
+      image5: "/images/startscomponent.png.jpeg",
+      price1: "$260 ",
+      price2: "-40%",
+      para1:
+        "The Graphic t-shirt Which is perfect for any Ocassion.Crafted from soft and brealhable fabric,it offers Superior comfort and style,",
+      heading2: "Select Colors",
+      image6: "/images/color2.png",
+      button1: "Small",
+      button2: "Medium",
+      button3: "Large",
+      button4: "X-Large",
+      button5: "Add to Cart",
+      para2: "Product Details",
+      para3:
+        "Sleek and timeless.Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric, offers Superior and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Titanium glasses with an innovative bridge. A frame to suit every face, Morgan is a classic'panto' shape.Named after James Morgan, the engineer who built the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin Brâncuşis Bird in Space.",
+      para4:
+        " Sleek and timeless.Titanium glasses with an innovative bridge. A frame suit every faceSleek and timeless.Titanium glasses with an innovative bridge. A frame suit every face, Morgan is a classic'panto' shape. Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Named after James Morgan, the engineer who built  the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin  Brâncuşis Bird in Space.",
+      para5: "• 99.7% pure titanium front",
+      para6: "• More than 4hv on the Vickers hardness test.",
+      para7: " • lon plated to over 0.3u ",
+      para8: "  • Weighs under 5.0g ",
+      para9: "• Adjustable titanium nose pads for a comfortable fit",
+      para10: "  •UV protection",
+      heading3: "YOU MIGHT ALSO LIKE",
+   },
+  ];
+  export const data2 = [
+    {
+      mainheading: "Home > Shop > Men > T-Shirts",
+      image1: "/images/party.png.jpeg",
+      image2: "/images/party.png.jpeg",
+      image3: "/images/party.png.jpeg",
+      image4: "/images/party.png.jpeg",
+      heading1: "Party",
+      image5: "/images/startscomponent.png.jpeg",
+      price1: "$360 ",
+      price2: "-40%",
+      para1:
+        "The Graphic t-shirt Which is perfect for any Ocassion.Crafted from soft and brealhable fabric,it offers Superior comfort and style,",
+      heading2: "Select Colors",
+      image6: "/images/color2.png",
+      button1: "Small",
+      button2: "Medium",
+      button3: "Large",
+      button4: "X-Large",
+      button5: "Add to Cart",
+      para2: "Product Details",
+      para3:
+        "Sleek and timeless.Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric, offers Superior and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Titanium glasses with an innovative bridge. A frame to suit every face, Morgan is a classic'panto' shape.Named after James Morgan, the engineer who built the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin Brâncuşis Bird in Space.",
+      para4:
+        " Sleek and timeless.Titanium glasses with an innovative bridge. A frame suit every faceSleek and timeless.Titanium glasses with an innovative bridge. A frame suit every face, Morgan is a classic'panto' shape. Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Named after James Morgan, the engineer who built  the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin  Brâncuşis Bird in Space.",
+      para5: "• 99.7% pure titanium front",
+      para6: "• More than 4hv on the Vickers hardness test.",
+      para7: " • lon plated to over 0.3u ",
+      para8: "  • Weighs under 5.0g ",
+      para9: "• Adjustable titanium nose pads for a comfortable fit",
+      para10: "  •UV protection",
+      heading3: "YOU MIGHT ALSO LIKE",
+   },
+  ];
+  export const data1 = [
+    {
+      mainheading: "Home > Shop > Men > T-Shirts",
+      image1: "/images/gym.png.jpeg",
+      image2: "/images/gym.png.jpeg",
+      image3: "/images/gym.png.jpeg",
+      image4: "/images/gym.png.jpeg",
+      heading1: "Gym",
+      image5: "/images/startscomponent.png.jpeg",
+      price1: "$560 ",
+      price2: "-40%",
+      para1:
+        "The Graphic t-shirt Which is perfect for any Ocassion.Crafted from soft and brealhable fabric,it offers Superior comfort and style,",
+      heading2: "Select Colors",
+      image6: "/images/color2.png",
+      button1: "Small",
+      button2: "Medium",
+      button3: "Large",
+      button4: "X-Large",
+      button5: "Add to Cart",
+      para2: "Product Details",
+      para3:
+        "Sleek and timeless.Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric, offers Superior and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Titanium glasses with an innovative bridge. A frame to suit every face, Morgan is a classic'panto' shape.Named after James Morgan, the engineer who built the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin Brâncuşis Bird in Space.",
+      para4:
+        " Sleek and timeless.Titanium glasses with an innovative bridge. A frame suit every faceSleek and timeless.Titanium glasses with an innovative bridge. A frame suit every face, Morgan is a classic'panto' shape. Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Graphic t-shirt Which is perfect for any Ocassion.Crafted from a soft and brealhable fabric,it offers Superior comfort and style Named after James Morgan, the engineer who built  the Regent's Canal, it features custom elements including fluid single piece bridge, adjustable nose pads and temple tips based on Constantin  Brâncuşis Bird in Space.",
+      para5: "• 99.7% pure titanium front",
+      para6: "• More than 4hv on the Vickers hardness test.",
+      para7: " • lon plated to over 0.3u ",
+      para8: "  • Weighs under 5.0g ",
+      para9: "• Adjustable titanium nose pads for a comfortable fit",
+      para10: "  •UV protection",
+      heading3: "YOU MIGHT ALSO LIKE",
+   },
+  ];
+  

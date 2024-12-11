@@ -1,0 +1,39 @@
+.ppp{
+    margin-left: 73px;
+   margin-bottom: -50px;
+}
+.shirt2{
+  
+    height: 500px;
+    width: 450px;
+    margin-top: 60px;
+    font-size: 30px;    
+} 
+.ra2{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.aman2 { margin-top: 375px;
+    margin-left: 70px;
+    position: absolute;
+}
+.harsh2{
+    margin-top: 450px;
+    margin-left: 70px;
+    position: absolute;
+}
+.stars2{
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 75px;
+    height: 60px;
+    width: 150px;
+}
+.images2{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}

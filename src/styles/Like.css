@@ -1,0 +1,30 @@
+.but{
+    background-color: lightpink;
+    color: red;
+    border-radius: 50px;
+    height: 30px;
+    width: 60px;
+    border-color: lightpink;
+    border-style: solid;
+}
+.all{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+.stars1{
+    margin-top: -25px ;
+    margin-left: 30px;
+}
+.stars3{
+    margin-top: -25px ;
+    margin-left: 30px;
+}
+.s{
+   margin-top: -20px;
+   margin-left: 30px;
+}
+.nam{
+    margin-left: 30px;
+}

@@ -1,0 +1,199 @@
+.nav {
+    width: 100%; 
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fff; 
+    z-index: 1000; 
+    padding: 10px 0; 
+    height: 55px;
+margin-bottom: 30px;
+}
+.order{
+    margin-top: 17px;
+}
+
+.search input{
+    height: 30px;
+    background-color: #f0f0f0;
+    margin-top: 20px;
+    width: 450px;
+    border-radius: 30px;
+}
+.cart{
+    margin-top: 25px;
+    width: 20px;
+    height: 10px;
+}
+.prof {
+    margin-top: 26px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease; 
+}
+
+.prof:hover {
+    transform: scale(1.1);
+}
+
+.clothe{
+    background-color: #f0f0f0;
+}
+.find{
+    margin-left: 70px;
+}
+.head {
+    margin-top: 10px;
+    color: black;
+    font-weight: 700; 
+    text-decoration: none;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.Shop{
+margin-top: 20px;
+text-decoration: none;
+font-size: 20px;
+color: black;
+
+}
+.Onsale{margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    }
+.Newarrival{margin-top: 20px;
+text-decoration: none;
+font-size: 20px;
+color: black;
+
+}  
+.Brands{margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black
+
+}
+.Cart{
+    margin-top: 20px;
+text-decoration: none;
+font-size: 20px;
+color: black
+}
+.Prof{
+    margin-top: 20px;
+text-decoration: none;
+font-size: 20px;
+color: black    
+}
+.sncont{
+    background-color:#f0f0f0;
+    padding-top: 40px;
+    width: 1500px;
+}
+.find{
+    font-size: 80px;
+}
+.that{
+    font-size: 80px;
+    padding-left: 70px;
+    margin-top: -85PX;
+}
+
+.your{
+    font-size: 80px;
+    padding-left: 70px;
+    margin-top: -85PX;
+}
+.browse{
+    color: grey;
+    padding-left: 70px;
+    margin-top: -50px;
+
+    
+}
+.bring{
+    color: grey;
+    display: flex;
+    margin-top: -10px;
+
+
+    padding-left: 70px;
+
+
+}
+.man{
+    display: flex;
+    margin-left: 824px;
+    margin-top: -520px;
+    height: 550px;
+    width: 400px;
+    
+}
+.btn{
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 70px;
+}
+.inter{
+    margin-left: 80px;
+}
+.quality{
+    margin-top: -110px;
+    margin-left: 290px;
+
+}
+.national{
+    font-size: 40px;
+    margin-top: 50px;
+}
+.bb{
+    color: grey;
+    margin-top: -20px;
+}
+.two{
+    font-size: 40px;
+    margin-top: -60px;
+}
+.high{
+    color: grey;
+    margin-top: -15px;
+
+}
+.three{
+    font-size: 40px;
+    margin-top: 50px;
+
+}
+.happy{
+    color: grey;
+    margin-top: -22px;
+
+}
+.bbb{
+    margin-left: 530px;
+    margin-top: -140px;
+}
+.brand{
+    margin-top: -24px;
+    height: 100px;
+}
+
+.mans{
+    margin-left: 50px;
+}
+.heading{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: -60px;
+    margin-left: 550px;
+}
+.prof1 {
+    margin-top: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease; 
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}

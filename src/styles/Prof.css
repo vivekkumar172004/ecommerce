@@ -1,0 +1,120 @@
+
+.login1{
+  height: 60px;
+  width: 170px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  font-size: 18PX;
+  margin-left: 1000PX;
+  position: absolute;
+}
+.signup1{
+  height: 60px;
+  width: 170px;
+  border-radius: 10px;
+  color: black;
+  background-color: white;
+  margin-left:1200px ;
+  font-size: 18px;
+  position: absolute;
+}
+.sg1{
+  margin-left: 750px;
+  margin-top: 160px;
+  font-size: 22px;
+
+}
+.sg{
+  margin-top: -80px;
+}
+.sg2{
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 20px;
+  margin-top: -20px;
+}
+.sg3{
+  height: 1px;
+  width: 280px;
+  background-color: grey;
+  margin-top: 50px;
+  position: absolute;
+}
+.or{
+ position: absolute;
+ color: grey;
+ margin-left: 320px;
+ font-size: 22px;
+ margin-top: 30px;
+}
+.sg4{
+  height: 1px;
+  width: 280px;
+  background-color: grey;
+  margin-top: 50px;
+  margin-left: 400PX;
+}
+.user12{
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 20px;
+margin-bottom: -100px;
+}
+.user{
+
+  margin-left: 750px;
+  position: absolute;
+  margin-top: -40px;
+}
+.user1{
+  color: grey;
+  margin-top: 50PX;
+}
+.user2{
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 20px;
+}
+.user3{
+  height: 50px;
+  width: 600px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 20px;
+}
+.user11{
+  color: grey;
+  margin-bottom: 1px;
+  
+}
+.btsn{
+  margin-top: 350px;
+  margin-left: 750px;
+}
+.btsn1{
+  height: 60px;
+  width: 170px;
+  border-radius: 10px;
+  
+  color: white;
+  
+   background-color: black;
+  font-size: 18px;
+  
+  
+}
+.imgn{
+  margin-top: -820px;
+}
+.imgs1{
+  margin-left: 30px;
+  margin-top: 130px;
+
+}

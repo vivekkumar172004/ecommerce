@@ -1,0 +1,106 @@
+
+   .order-container {
+    padding: 20px;
+  }
+  
+  .rr {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 10px;
+    margin-top: 130px;
+    
+  }
+  
+  .rrr {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: -20px;
+  }
+  .status{
+    color: red;
+  }
+  .til{
+    margin-left: 30%;
+    margin-top: -110px;
+  }
+ .createbutton{
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease; 
+  margin-left: 35%;
+  height: 30px;
+  width: 450px;
+  margin-top: 100px;
+  background-color: black;
+  color: white;
+  border-color: black;
+ }
+  .cancel {
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease; 
+    margin-left: 70%;
+    height: 30px;
+    width: 150px;
+    margin-top: -150px;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.cancel:hover {
+    transform: scale(1.1);
+}
+  .til1{
+    margin-left: 30%;
+  }.til2{
+    margin-left: 30%;
+  }
+  .order-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 5%;
+  }
+  
+  .order-item {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .order-id, .order-date, .order-status, .order-total {
+    margin-bottom: 5px;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .items-header {
+    font-size: 1.2rem;
+    margin-top: 15px;
+  }
+  
+  .order-product {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #eee;
+  }
+  
+  .order-product p {
+    margin: 5px 0;
+  }
+  
+  .no-orders {
+    margin-top: 70px;
+    font-size: 1.2rem;
+    margin-left: 620px;
+height: 200px;
+width: 300px;
+  }
+ 
+  

@@ -1,0 +1,69 @@
+
+.shirt1{
+  
+    height: 500px;
+    width: 350px;
+    margin-top: 60px;
+    font-size: 30px;    
+} 
+.ra{
+    height: 300px;
+    width: 280px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+.aman{
+    margin-top: 375px;
+    margin-left: 70px;
+    color: black;
+    position: absolute;
+}
+.harsh{
+    margin-top: 450px;
+    margin-left: 70px;
+    color: black;
+    position: absolute;
+}
+.stars{
+    position: absolute;
+    margin-top: 410px;
+    margin-left: 50px;
+    height: 50px;
+    width: 300px;
+}
+.images{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.button1{
+    margin-left: 700px ;
+    margin-bottom: 50px;
+}
+.shirt9{
+    margin-bottom: 730px;
+    margin-top: -850px;
+  }
+  .shirt8{
+    margin-top:50px;
+    margin-left: 850px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .aman9{
+    margin-bottom: -5px;
+  }.ra9{
+    height: 190px;
+    margin-bottom: 150px;
+    margin-top: -50px;
+    margin-left: 50px;}
+    .stars9{
+        margin-bottom: -50px;
+    }
+    .harsh10{
+      margin-top: -100px;
+      margin-bottom: -70px;
+  }
+  
